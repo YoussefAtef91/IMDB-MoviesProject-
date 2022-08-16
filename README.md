@@ -3,9 +3,13 @@ with the same dataset.
 
 This project has went throgh 5 phases:-
 1)Data collection
+
 2)Data cleaning
+
 3)Exploratory data analysis (EDA)
+
 4)Data visualization (using power bi)
+
 5)building a machine learning model
 
 now I'll talk about each phase in details...
@@ -15,7 +19,7 @@ now I'll talk about each phase in details...
 -For this project I used "IMDb movies extensive dataset" by Stefano Leone from kaggle (link: https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset).
 -The dataset had 4 csv files but I decided that the "IMDB novies.csv" file will be enough for this project.
 
-### 2)Data cleaning:
+### 2) Data cleaning:
 
 -The code of this part is in "Data Cleaning.ipynb", I used pandas library to clean the data.
 -Tere were too many null value in the dataframe, but I decided to only drop the records with null values in the budget, USA income, and world wide income as I think that these columns
