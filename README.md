@@ -1,23 +1,23 @@
-The movie industry is playing a significant rule in the econmy in the last decade, So in this project I aimed to analyze movies of the last 100 years and make a movie recommender system
-with the same dataset.
+## The movie industry is playing a significant rule in the econmy in the last decade, So in this project I aimed to analyze movies of the last 100 years and make a movie recommender system with the same dataset.
 
-This project has went throgh 5 phases:-
-1)Data collection
+## This project has went throgh 5 phases:-
 
-2)Data cleaning
+#### 1)Data collection
 
-3)Exploratory data analysis (EDA)
+#### 2)Data cleaning
 
-4)Data visualization (using power bi)
+#### 3)Exploratory data analysis (EDA)
 
-5)building a machine learning model
+#### 4)Data visualization (using power bi)
 
-now I'll talk about each phase in details...
+#### 5)building a machine learning model
+
+##now I'll talk about each phase in details...
 
 ### 1) Data collection:
 
--For this project I used "IMDb movies extensive dataset" by Stefano Leone from kaggle (link: https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset).
--The dataset had 4 csv files but I decided that the "IMDB novies.csv" file will be enough for this project.
+* For this project I used "IMDb movies extensive dataset" by Stefano Leone from kaggle (link: https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset).
+* The dataset had 4 csv files but I decided that the "IMDB novies.csv" file will be enough for this project.
 
 ### 2) Data cleaning:
 
@@ -36,12 +36,12 @@ production company.
 
 ### 3)Exploratory data analysis (EDA):
 
--The code of this part is in "Exploratory Data Analysis.ipynb", I used pandas library to analyze the data, matplotlib and seaborn for visualizations.
+* The code of this part is in "Exploratory Data Analysis.ipynb", I used pandas library to analyze the data, matplotlib and seaborn for visualizations.
 
 ### 4) Data visulaiztaion (using power bi):
 
--The dashboards are in "Data Visualization" file.
--In this dashboard I made 7 pages about (countries, actors, movies, gneres, production comapnies, writers and directors, time and revenue) plus two additional pages about production 
+* The dashboards are in "Data Visualization" file.
+* In this dashboard I made 7 pages about (countries, actors, movies, gneres, production comapnies, writers and directors, time and revenue) plus two additional pages about production 
 comapnies (Disney, Universal pictures).
 
 ### 5) Machine learning model:
